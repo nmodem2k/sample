@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  #- title: "Blog"
+  #  url: /blog/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  #- title: "Tags"
+  #  url: /tags/
+  - title: "Shopping"
+    url: https://amzn.to/34ICbSQ
+  - title: "Contact"
+    url: /contact/
